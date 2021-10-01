@@ -1,0 +1,16 @@
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\bin\Debug\net5.0\Slagsmal.exe
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\bin\Debug\net5.0\Slagsmal.deps.json
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\bin\Debug\net5.0\Slagsmal.runtimeconfig.json
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\bin\Debug\net5.0\Slagsmal.runtimeconfig.dev.json
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\bin\Debug\net5.0\Slagsmal.dll
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\bin\Debug\net5.0\ref\Slagsmal.dll
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\bin\Debug\net5.0\Slagsmal.pdb
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\obj\Debug\net5.0\Slagsmal.csproj.AssemblyReference.cache
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\obj\Debug\net5.0\Slagsmal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\obj\Debug\net5.0\Slagsmal.AssemblyInfoInputs.cache
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\obj\Debug\net5.0\Slagsmal.AssemblyInfo.cs
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\obj\Debug\net5.0\Slagsmal.csproj.CoreCompileInputs.cache
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\obj\Debug\net5.0\Slagsmal.dll
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\obj\Debug\net5.0\ref\Slagsmal.dll
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\obj\Debug\net5.0\Slagsmal.pdb
+C:\Users\malte.nordlof\Documents\Prog\Slagsmal\Slagsmal\Slagsmal\obj\Debug\net5.0\Slagsmal.genruntimeconfig.cache
